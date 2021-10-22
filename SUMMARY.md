@@ -28,8 +28,7 @@
 
 ## HONEYDAO Token
 
-* [Honey](honeydao-token/honey.md)
-* [Utility](honeydao-token/utility.md)
+* [🍯 Honey DAO Governance Token](honeydao-token/honey.md)
 
 ## Resources
 
