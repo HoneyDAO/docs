@@ -1,4 +1,4 @@
-# Community Pact
+# Community Pact(?)
 
 ## Our Standards
 
@@ -9,4 +9,3 @@
 
 
 ## Enforcement
-

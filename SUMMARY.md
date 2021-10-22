@@ -1,16 +1,21 @@
 # Table of contents
 
 * [Welcome to HoneyDAO 🍯](README.md)
+* [🤝 Joining Honey DAO](joining-honey-dao.md)
 
 ## COMMUNITY
 
+* [Community Standards](community/community-standards.md)
 * [Community Roles](community/community-roles.md)
-* [Community Pact](community/community-pact.md)
+* [Community (?)](community/community-roles-1.md)
+* [Community Pact(?)](community/community-pact.md)
+* [Discord Channels](community/discord-channels.md)
 
 ## Investing
 
-* [DAO Bee](investing/dao-bee.md)
-* [Deal Flow](investing/deal-flow.md)
+* [Dealing](investing/deal-flow.md)
+* [Deal Flow:](investing/deal-flow-1.md)
+* [DAO Bee(?)](investing/dao-bee.md)
 
 ## Portfolio
 
@@ -28,5 +33,4 @@
 
 ## Resources
 
-* [Untitled](resources/untitled.md)
-
+* [Resources:](resources/untitled.md)
