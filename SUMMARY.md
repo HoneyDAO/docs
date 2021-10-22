@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to HoneyDAO 🍯](README.md)
+* [🍯 Welcome to HoneyDAO](README.md)
 * [🤝 Joining Honey DAO](joining-honey-dao.md)
 
 ## COMMUNITY
